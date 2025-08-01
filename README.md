@@ -1,7 +1,7 @@
 # Hi, I'm EJ O'Kelly 👋
 
 ## 🚀 Full-Stack Software Engineer & AI Specialist
-> Austin, TX | [hello+ej@whytilt.com](mailto:hello+ej@whytilt.com)
+> Austin, TX | [eric.okelly.developer@gmail.com](mailto:eric.okelly.developer@gmail.com)
 
 I build full-stack systems that push technical boundaries, specializing in React.js and Next.js applications from real-time trading platforms to AI-powered testing frameworks. With over a decade of React experience, I create scalable frontend architectures and have recently integrated cutting-edge AI and machine learning capabilities into web applications.
 
@@ -75,7 +75,7 @@ Cal State San Marcos | San Marcos, CA
 ## 📫 Let's Connect!
 Feel free to reach out for collaborations or just a friendly chat about tech!
 
-- 📧 Email: [hello+ej@whytilt.com](mailto:hello+ej@whytilt.com)
+- 📧 Email: [eric.okelly.developer@gmail.com](mailto:eric.okelly.developer@gmail.com)
 - 📍 Location: Austin, TX
 
 ---
