@@ -32,7 +32,7 @@ My coding experience predates the AI boom, allowing me to code and debug effecti
 - 👁️ **Computer Vision** (8 years)
 
 ### Cloud & DevOps
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) **8 years**
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) **8 years** (SQS, S3, Lambda, EC2, Fargate)
 - ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) **5 years**
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) **15 years**
 
