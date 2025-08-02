@@ -18,13 +18,13 @@ I build full-stack systems that push technical boundaries, specializing in React
 
 ## Technical Skills
 
-**Languages:** JavaScript (10+), TypeScript (10+), Python (8), Ruby (10+), C# (5), C (8), HTML (10+), CSS (10+), SQL (10+), GraphQL (4), Solidity (3)
+**Languages:** JavaScript (10+), TypeScript (10+), Python (8), Ruby (10+), C# (5), C (8), HTML (10+), CSS (10+), SQL (10+), GraphQL (4), Solidity (3), DeFi experience (2), Web analytics tools (2), Core Web Vitals (2), socket.io (2)
 
-**Frontend:** React.js, Next.js, Vue.js, Tailwind CSS, Sass/SCSS, Webpack, Vite, AJAX, jQuery, Bootstrap
+**Frontend:** React.js, Next.js, Vue.js, Tailwind CSS, Sass/SCSS, Webpack, Vite, AJAX, jQuery, Bootstrap, Angular
 
-**Backend:** Node.js, Express.js, Django, Flask, Ruby on Rails, .NET, ASP.NET, FastAPI, GraphQL, REST APIs
+**Backend:** Node.js, Express.js, Django, Flask, Ruby on Rails, .NET, ASP.NET, FastAPI, GraphQL, REST APIs, SOAP
 
-**AI/ML:** Machine Learning, Deep Learning, Computer Vision, Voice Synthesis, Neural Networks, TensorFlow, PyTorch, OpenAI API, Anthropic Claude, Hugging Face
+**AI/ML:** Machine Learning, Deep Learning, Computer Vision, Voice Synthesis, Neural Networks, TensorFlow, PyTorch, OpenAI API, Anthropic Claude, Hugging Face, Language Models, Visual Models, Audio Models, Vision/Action Models
 
 **AWS:** EC2, S3, RDS, Lambda, API Gateway, CloudFront, SQS, SNS, DynamoDB, ECS, Fargate, ElastiCache, CloudWatch, IAM, VPC, Route 53, ELB/ALB, Auto Scaling, CloudFormation
 
@@ -38,60 +38,67 @@ I build full-stack systems that push technical boundaries, specializing in React
 
 ## Professional Experience
 
-
-### Software Developer - Web Testing Automation
+### Software Architect
 **Tilt** | Austin, TX | 2023 - Present
 
-{{#each achievements}}
-• [object Object]  
+• Built AI-powered testing framework replacing complex headless testing systems  
+• Created vision-action model that navigates web interfaces like human QA workers  
+• Developed simple English instruction system replacing esoteric testing code  
+• Built training and inference pipelines in ReactJS/NextJS and Python  
 
-### Sr Software Engineer
-**Voxbird** | Latin America | 2020 - 2022
 
-{{#each achievements}}
-• [object Object]  
+### Engineer III - Team Lead
+**Voxbird** | San Diego, CA | 2020 - 2023
+
+• Engineered advanced voice synthesis system solving cadence replication problems  
+• Built real-time voice processing handling complex speech patterns  
+• Created voice models capturing natural speaking rhythm of recording artists  
+• Built training and inference pipelines in ReactJS/NextJS, TypeScript and Python  
+
 
 ### Sr Software Developer - Machine Learning Developer
 **Contract Developer** | Latin America, Holland, India | 2017 - 2020
 
-{{#each achievements}}
-• [object Object]  
+• Built deep networks for game-playing, classification, and voice synthesis  
+• Developed medical classifiers improving healthcare in rural communities  
+• Built multiple web applications using NextJS, ReactJS, Typescript and MongoDB  
+
 
 ### Senior Developer
 **Finexbox** | Dubai, UAE | 2015 - 2017
 
-{{#each achievements}}
-• [object Object]  
+• Built trading interfaces processing millions in daily volume  
+• Wrote and audited Solidity smart contracts for crypto exchange platform  
+• Conducted penetration testing ensuring platform security  
+• A mix of Solidity, JavaScript, ReactJS, MySQL, Postgres, and multiple APIs  
+
 
 ### Senior Software Engineer
-**Airware** | San Francisco, CA | 2011 - 2015
+**Airware** | San Francisco, CA | 2012 - 2015
 
-{{#each achievements}}
-• [object Object]  
+• Built real-time web interfaces for autonomous drone control systems  
+• Developed fleet management tools processing live telemetry data  
+• Created responsive operator controls for aircraft management  
+• Built in Embers.js then ReactJs, CSS, Javascript, Node and Postgres  
+
 
 ### Software Engineer
-**Zairmail** | Portland, OR | 2008 - 2011
+**Zairmail** | Portland, OR | 2007 - 2012
 
-{{#each achievements}}
-• [object Object]  
-
-### Web Developer
-**SMS.ac** | San Diego, CA | 2005 - 2008
-
-{{#each achievements}}
-• [object Object]  
+• Led frontend development for digital-to-physical mail platform  
+• Built interactive drag-and-drop interfaces with early AJAX implementation  
+• Built in C#, ASP.Net, JavaScript, and PERL  
 
 
-
-
-{{/each}}
 
 ## Education
 
+### Bachelor of Science in Computer Science
+**California State University San Marcos** | San Marcos, CA | August 2007
 
-### BS Computer Science
-**Cal State San Marcos** | San Marcos, CA
+**Relevant Coursework:** C, LISP, Java
 
+**Capstone Project:** Designed and implemented a telnet-based, multi-player text MMORPG in C, featuring real-time multi-user interaction, networking, and game logic
 
 
 ---

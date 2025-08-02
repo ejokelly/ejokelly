@@ -1,4 +1,4 @@
-# {{personalInfo.name}}
+# {{{personalInfo.name}}}
 
 ## Featured Projects
 
@@ -8,13 +8,13 @@
 
 ---
 
-**{{personalInfo.title}}**  
-📧 {{personalInfo.email}} | 📞 {{personalInfo.phone}} | 📍 {{personalInfo.location}}  
+**{{{personalInfo.title}}}**  
+📧 {{{personalInfo.email}}} | 📞 {{personalInfo.phone}} | 📍 {{personalInfo.location}}  
 🔗 [GitHub]({{personalInfo.github}})
 
 ## Summary
 
-{{summary}}
+{{{summary}}}
 
 ## Technical Skills
 
@@ -46,9 +46,6 @@
 • {{this}}  
 {{/each}}
 
-{{#if reasonForLeaving}}
-*Reason for leaving: {{reasonForLeaving}}*
-{{/if}}
 
 {{/each}}
 
@@ -57,6 +54,14 @@
 {{#each education}}
 ### {{degree}}
 **{{institution}}** | {{location}}{{#if graduationDate}} | {{graduationDate}}{{/if}}
+
+{{#if coursework}}
+**Relevant Coursework:** {{#each coursework}}{{this}}{{#unless @last}}, {{/unless}}{{/each}}
+{{/if}}
+
+{{#if capstone}}
+**Capstone Project:** {{capstone}}
+{{/if}}
 
 {{/each}}
 
