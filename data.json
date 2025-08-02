@@ -1,0 +1,264 @@
+{
+  "personalInfo": {
+    "name": "EJ O'Kelly",
+    "phone": "(619) 394-6221",
+    "email": "hello+ej@whytilt.com",
+    "location": "San Francisco, CA",
+    "title": "Software Engineer & AI Specialist",
+    "portfolio": "",
+    "github": "https://github.com/ejokelly",
+    "linkedin": "https://linkedin/idontuseit"
+  },
+  "summary": "I build full-stack systems that push technical boundaries, specializing in React.js and Next.js applications from real-time trading platforms to AI-powered testing frameworks. With over a decade of React experience, I create scalable frontend architectures and have recently integrated cutting-edge AI and machine learning capabilities into web applications. My coding experience predates the AI boom, allowing me to code and debug effectively with or without AI assistance—my preferred model being Claude Code. I combine deep React/Next.js expertise with practical problem-solving learned from years of challenging projects across fintech, aerospace, and enterprise automation.",
+  "skills": {
+    "languages": [
+      { "name": "JavaScript", "years": "10+" },
+      { "name": "TypeScript", "years": "10+" },
+      { "name": "Python", "years": 8 },
+      { "name": "Ruby", "years": "10+" },
+      { "name": "C#", "years": 5 },
+      { "name": "C", "years": 8 },
+      { "name": "HTML", "years": "10+" },
+      { "name": "CSS", "years": "10+" },
+      { "name": "SQL", "years": "10+" },
+      { "name": "GraphQL", "years": 4 },
+      { "name": "Solidity", "years": 3 }
+    ],
+    "frontend": [
+      { "name": "React.js", "years": "10+" },
+      { "name": "Next.js", "years": 7 },
+      { "name": "Vue.js", "years": 4 },
+      { "name": "Tailwind CSS", "years": 5 },
+      { "name": "Sass/SCSS", "years": "10+" },
+      { "name": "Webpack", "years": 8 },
+      { "name": "Vite", "years": 3 },
+      { "name": "AJAX", "years": "10+" },
+      { "name": "jQuery", "years": "10+" },
+      { "name": "Bootstrap", "years": "10+" }
+    ],
+    "backend": [
+      { "name": "Node.js", "years": "10+" },
+      { "name": "Express.js", "years": "10+" },
+      { "name": "Django", "years": 6 },
+      { "name": "Flask", "years": 5 },
+      { "name": "Ruby on Rails", "years": "10+" },
+      { "name": ".NET", "years": 5 },
+      { "name": "ASP.NET", "years": 4 },
+      { "name": "FastAPI", "years": 3 },
+      { "name": "GraphQL", "years": 4 },
+      { "name": "REST APIs", "years": "10+" }
+    ],
+    "testing": [
+      { "name": "Jest", "years": 8 },
+      { "name": "pytest", "years": 6 },
+      { "name": "RSpec", "years": "10+" },
+      { "name": "Selenium", "years": 4 },
+      { "name": "Mocha", "years": 6 },
+      { "name": "Chai", "years": 6 },
+      { "name": "Minitest", "years": 8 },
+      { "name": "Jasmine", "years": 5 },
+      { "name": "Playwright", "years": 2 },
+      { "name": "Enzyme", "years": 5 }
+    ],
+    "aiMl": [
+      { "name": "Machine Learning", "years": 8 },
+      { "name": "Deep Learning", "years": 6 },
+      { "name": "Computer Vision", "years": 8 },
+      { "name": "Voice Synthesis", "years": 7 },
+      { "name": "Neural Networks", "years": 6 },
+      { "name": "TensorFlow", "years": 5 },
+      { "name": "PyTorch", "years": 4 },
+      { "name": "OpenAI API", "years": 2 },
+      { "name": "Anthropic Claude", "years": 2 },
+      { "name": "Hugging Face", "years": 3 }
+    ],
+    "awsServices": [
+      { "name": "EC2", "years": 8 },
+      { "name": "S3", "years": 8 },
+      { "name": "RDS", "years": 6 },
+      { "name": "Lambda", "years": 5 },
+      { "name": "API Gateway", "years": 4 },
+      { "name": "CloudFront", "years": 5 },
+      { "name": "SQS", "years": 4 },
+      { "name": "SNS", "years": 3 },
+      { "name": "DynamoDB", "years": 4 },
+      { "name": "ECS", "years": 3 },
+      { "name": "Fargate", "years": 2 },
+      { "name": "ElastiCache", "years": 3 },
+      { "name": "CloudWatch", "years": 6 },
+      { "name": "IAM", "years": 6 },
+      { "name": "VPC", "years": 5 },
+      { "name": "Route 53", "years": 4 },
+      { "name": "ELB/ALB", "years": 5 },
+      { "name": "Auto Scaling", "years": 4 },
+      { "name": "CloudFormation", "years": 3 }
+    ],
+    "cloudDevops": [
+      { "name": "Docker", "years": 6 },
+      { "name": "Kubernetes", "years": 3 },
+      { "name": "Terraform", "years": 4 },
+      { "name": "Chef", "years": 3 },
+      { "name": "Jenkins", "years": 5 },
+      { "name": "GitLab CI", "years": 3 },
+      { "name": "Git", "years": "10+" },
+      { "name": "GitHub Actions", "years": 4 },
+      { "name": "CI/CD", "years": 8 },
+      { "name": "Linux", "years": "10+" },
+      { "name": "Unix", "years": "10+" },
+      { "name": "Bash", "years": "10+" },
+      { "name": "Nginx", "years": "10+" },
+      { "name": "Apache", "years": 8 }
+    ],
+    "databases": [
+      { "name": "PostgreSQL", "years": "10+" },
+      { "name": "MongoDB", "years": "10+" },
+      { "name": "Redis", "years": 8 },
+      { "name": "MySQL", "years": "10+" },
+      { "name": "Vector Databases", "years": 3 },
+      { "name": "Elasticsearch", "years": 4 },
+      { "name": "SQLite", "years": "10+" }
+    ],
+    "tools": [
+      { "name": "VS Code", "years": 8 },
+      { "name": "Claude Code", "years": 1 },
+      { "name": "Vim", "years": "10+" },
+      { "name": "Postman", "years": 8 },
+      { "name": "Figma", "years": 4 },
+      { "name": "Jira", "years": 6 },
+      { "name": "Slack", "years": 8 }
+    ],
+    "specialties": [
+      { "name": "Real-time Systems", "years": "10+" },
+      { "name": "Trading Platforms", "years": 3 },
+      { "name": "Cryptocurrency/Blockchain", "years": 6 },
+      { "name": "Voice Processing", "years": 4 },
+      { "name": "Web Automation", "years": 2 },
+      { "name": "Performance Optimization", "years": "10+" },
+      { "name": "Security/Penetration Testing", "years": 5 },
+      { "name": "Drone/Aircraft Systems", "years": 4 },
+      { "name": "High-volume Systems", "years": 8 }
+    ],
+    "softSkills": [
+      { "name": "Problem Solving", "years": "10+" },
+      { "name": "Team Leadership", "years": "10+" },
+      { "name": "Communication", "years": "10+" },
+      { "name": "Mentoring", "years": "10+" },
+      { "name": "Cross-functional Collaboration", "years": "10+" },
+      { "name": "Project Management", "years": "10+" },
+      { "name": "Agile/Scrum", "years": "10+" },
+      { "name": "Code Review", "years": "10+" },
+      { "name": "Technical Documentation", "years": "10+" },
+      { "name": "System Architecture", "years": "10+" },
+      { "name": "Requirements Analysis", "years": "10+" },
+      { "name": "Client Relations", "years": "10+" },
+      { "name": "Remote Work", "years": 8 },
+      { "name": "Time Management", "years": "10+" },
+      { "name": "Adaptability", "years": "10+" },
+      { "name": "Critical Thinking", "years": "10+" },
+      { "name": "Innovation", "years": "10+" },
+      { "name": "Conflict Resolution", "years": "10+" }
+    ]
+  },
+  "experience": [
+    {
+      "role": "Software Developer - Web Testing Automation",
+      "company": "Tilt",
+      "location": "Austin, TX",
+      "startDate": "2023",
+      "endDate": "Present",
+      "achievements": [
+        "Built AI-powered testing framework replacing complex headless testing systems",
+        "Created vision-action model that navigates web interfaces like human QA workers",
+        "Developed simple English instruction system replacing esoteric testing code",
+        "Built training pipeline in ReactJS and Python"
+      ],
+      "reasonForLeaving": "Completed my part of the work and seeking a new challenge"
+    },
+    {
+      "role": "Sr Software Engineer",
+      "company": "Voxbird",
+      "location": "Latin America",
+      "startDate": "2020",
+      "endDate": "2022",
+      "achievements": [
+        "Engineered advanced voice synthesis system solving cadence replication problems",
+        "Built real-time voice processing handling complex speech patterns",
+        "Created voice models capturing natural speaking rhythm of recording artists"
+      ],
+      "reasonForLeaving": "Completed my work and the company is in maintenance mode"
+    },
+    {
+      "role": "Sr Software Developer - Machine Learning Developer",
+      "company": "Contract Developer",
+      "location": "Latin America, Holland, India",
+      "startDate": "2017",
+      "endDate": "2020",
+      "achievements": [
+        "Built deep networks for game-playing, classification, and voice synthesis",
+        "Developed medical classifiers improving healthcare in rural communities",
+        "Contracted Next.js and React.js work while pursuing ML research"
+      ]
+    },
+    {
+      "role": "Senior Developer",
+      "company": "Finexbox",
+      "location": "Dubai, UAE",
+      "startDate": "2015",
+      "endDate": "2017",
+      "achievements": [
+        "Built React/Next.js trading interfaces processing millions in daily volume",
+        "Wrote and audited Solidity smart contracts for crypto exchange platform",
+        "Conducted penetration testing ensuring platform security"
+      ],
+      "reasonForLeaving": "The company sold to private equity and I wanted to leave Dubai"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "Airware",
+      "location": "San Francisco, CA",
+      "startDate": "2011",
+      "endDate": "2015",
+      "achievements": [
+        "Built real-time web interfaces for autonomous drone control systems",
+        "Developed fleet management tools processing live telemetry data",
+        "Created responsive operator controls for aircraft management"
+      ],
+      "reasonForLeaving": "The company went out of business"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Zairmail",
+      "location": "Portland, OR",
+      "startDate": "2008",
+      "endDate": "2011",
+      "achievements": [
+        "Led frontend development for digital-to-physical mail platform",
+        "Built interactive drag-and-drop interfaces with early AJAX implementation",
+        "Created seamless bridge between digital inputs and physical mail output"
+      ],
+      "reasonForLeaving": "The company became a spam mailer, I wasn't interested in that"
+    },
+    {
+      "role": "Web Developer",
+      "company": "SMS.ac",
+      "location": "San Diego, CA",
+      "startDate": "2005",
+      "endDate": "2008",
+      "achievements": [
+        "Built high-volume SMS platform handling massive message throughput",
+        "Scaled email servers from 50k/hr to 1M/hr using Unix optimizations",
+        "Solved critical performance issues in telecom codebase"
+      ],
+      "reasonForLeaving": "The company went for an IPO and didn't make it"
+    }
+  ],
+  "education": [
+    {
+      "degree": "BS Computer Science",
+      "institution": "Cal State San Marcos",
+      "location": "San Marcos, CA",
+      "graduationDate": ""
+    }
+  ],
+  "activities": []
+}
