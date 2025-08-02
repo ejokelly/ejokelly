@@ -1,6 +1,6 @@
 # {{{personalInfo.name}}}
 
-> **Note:** I recently lost my account to a shady hotspot and I ended up just creating a new account.
+> **Note:** I recently lost my account to a shady hotspot and I ended up just creating a new one.
 
 ## Featured Projects
 
