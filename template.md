@@ -1,5 +1,7 @@
 # {{{personalInfo.name}}}
 
+> **Note:** I recently lost my account to a shady hotspot and I ended up just creating a new account.
+
 ## Featured Projects
 
 🚀 **[Job Hunter](https://github.com/ejokelly/job-hunter)** - An example of how I approach building modern applications with React, Next.js, and AI integration. Built in under 8 hours using my development methods.
